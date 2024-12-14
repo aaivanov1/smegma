@@ -2,5 +2,11 @@
     "name": "Smegma Coin",
     "symbol": "SMEGMA",
     "description": "Dare to hold it. Dare to own it.",
-    "image": "https://raw.githubusercontent.com/aaivanov1/smegma/defd710b7437555caa70b368ba39db1a31828706/logo.png"
+    "image": "https://raw.githubusercontent.com/aaivanov1/smegma/defd710b7437555caa70b368ba39db1a31828706/logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
 }
